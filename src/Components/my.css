@@ -1,0 +1,10 @@
+.kep-login-facebook {
+  background-color: blue;
+  color: white;
+  font-weight: bolder;
+  padding: 8px;
+}
+
+.hidden {
+  display: none;
+}
